@@ -7,4 +7,4 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-https://officialp123.github.io/Camera-Store/
+click here to view the site : https://officialp123.github.io/Camera-Store/
